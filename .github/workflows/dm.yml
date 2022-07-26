@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: gf19.07 OpenWrt
+name: gfdm20219.07 OpenWrt
 
 on:
   repository_dispatch:
